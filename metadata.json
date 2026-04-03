@@ -1,0 +1,5 @@
+{
+  "name": "HEXVISION LoL Assistant",
+  "description": "Advanced AI-powered tactical dashboard for League of Legends. Real-time screen analysis for macro strategy, item builds, and combat alerts.",
+  "requestFramePermissions": ["display-capture"]
+}
